@@ -53,9 +53,6 @@ A dynamic full-stack web application where users can submit and browse detailed 
    ```bash
    http://localhost:3000
 
-## 🌐 Live Demo
-- Check out the live application: https://movie-review-page.onrender.com/
-
 ## 📦 Dependencies
 ### Production
 - express: ^4.18.2
